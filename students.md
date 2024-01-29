@@ -124,3 +124,9 @@ I am Phoebe
 
 === Do not modify the content above===
 
+## Lee Pui Fai
+I am Lee Pui Fai.
+
+[My Github account](http://www.github.com/failee711/)
+
+=== Do not modify the content above===
